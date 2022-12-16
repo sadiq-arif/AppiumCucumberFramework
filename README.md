@@ -8,3 +8,4 @@ Appium Cucumber Framework with some of the following important keypoints
 6. Added the concept of Cucumber Hooks, Cucumber's Scenario Outline.
 7. Added the Data Driven dependency through JSON.
 8. Project Helpline = https://testautomationu.applitools.com/appium-java-tutorial/
+9. Config and Properties related help through = https://github.com/sadiq-arif/AdvancedSeleniumJavaCucumberFramework
