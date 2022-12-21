@@ -11,3 +11,4 @@ Appium Cucumber Framework with some of the following important keypoints
 7. Added the Data Driven dependency through JSON.
 8. Project Helpline = https://testautomationu.applitools.com/appium-java-tutorial/
 9. Config and Properties related help through = https://github.com/sadiq-arif/AdvancedSeleniumJavaCucumberFramework
+10. Run Appium Server programmatically = https://github.com/mfaisalkhatri/appium-examples/tree/694ccb4b4330ef7fa78fc4693a2307488dec22d0
